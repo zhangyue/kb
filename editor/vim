@@ -1,0 +1,15 @@
+# 一步步在 Centos 7 上搭建 vim C++ IDE
+https://blog.csdn.net/wrp0101/article/details/79327244
+
+# 安装vim管理插件 pathogen
+https://blog.csdn.net/weixin_35934768/article/details/52640038
+
+# Vim 中使用 OmniComplete 为 C/C++ 自动补全
+https://www.cnblogs.com/xkfz007/articles/2501888.html
+
+# clang_complete
+https://github.com/xavierd/clang_complete
+
+# Modified libstdc++ headers for use with ctags
+https://www.vim.org/scripts/script.php?script_id=2358
+
